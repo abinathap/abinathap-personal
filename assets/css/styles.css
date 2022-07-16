@@ -116,6 +116,10 @@ img {
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
+.l-main {
+background-image: url("/assets/img/bg1.jpg");
+
+}
 /*===== NAV =====*/
 .nav {
   height: var(--header-height);
@@ -332,8 +336,8 @@ img {
   width: 65%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__mongodb {
+  width: 65%;
 }
 
 .skills__img {
